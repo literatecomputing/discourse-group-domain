@@ -1,0 +1,7 @@
+en:
+  site_settings:
+    group_domain_enabled: "Enable GroupDomain plugin"
+    group_domain_whitelist: "Email domains to add to group"
+    group_domain_group: "Name of Group to add matched domains to"
+    group_domain_strict: "Remove user from group if email changes to non-whitelisted"
+    group_domain_update_frequency: "How often (in hours) to apply whitelist to all users"

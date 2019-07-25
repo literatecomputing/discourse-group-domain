@@ -1,0 +1,14 @@
+plugins:
+  group_domain_enabled:
+    default: true
+    client: true
+  group_domain_whitelist:
+    default: ""
+    type: list
+  group_domain_group:
+    default: ""
+    type: group
+  group_domain_strict:
+    default: false
+  group_domain_update_frequency:
+    default: 876000

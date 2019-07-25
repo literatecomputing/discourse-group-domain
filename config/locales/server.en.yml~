@@ -1,0 +1,5 @@
+en:
+  site_settings:
+    group_domain_enabled: "Enable GroupDomain plugin"
+    group_domain_whitelist: "Email domains to add to group"
+    group_domain_group: "Group to add matched domains to"
